@@ -1,0 +1,15 @@
+[submodule "requests"]
+	path = requests
+	url = https://github.com/Capfly/requests.git
+[submodule "openssl-dane-tests"]
+	path = openssl-dane-tests
+	url = https://github.com/Capfly/openssl-dane-tests.git
+[submodule "pyopenssl"]
+	path = pyopenssl
+	url = https://github.com/Capfly/pyopenssl.git
+[submodule "cryptography"]
+	path = cryptography
+	url = https://github.com/Capfly/cryptography.git
+[submodule "urllib3"]
+	path = urllib3
+	url = https://github.com/Capfly/urllib3.git
